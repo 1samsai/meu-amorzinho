@@ -1,0 +1,8 @@
+body { display: flex; justify-content: center; align-items: center; height: 100vh; background: url('fundo.png') no-repeat center center fixed; background-size: cover; color: white; font-family: Arial, sans-serif; }
+
+.player { text-align: center; background: #1db954; padding: 20px; border-radius: 10px; width: 300px; }
+
+.cover { width: 100%; border-radius: 10px; }
+
+.controls button { background: none; border: none; font-size: 20px; margin: 10px; cursor: pointer; color: white; }
+
